@@ -10,7 +10,7 @@ public class Main {
         test.oneToI();
         test.oneToII();
         test.oneToIII();
-        //test.oneToIV();
+        test.oneToIV();
         test.oneToV();
         test.oneToVI();
         test.oneToVII();

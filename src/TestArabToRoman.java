@@ -35,7 +35,7 @@ public class TestArabToRoman {
                 return true;
         }
 
-       /* public boolean oneToIV(){
+       public boolean oneToIV(){
                 ArabToRoman ar = new ArabToRoman(4);
                 String val =  ar.convert();
                 if(!val.equals("IV"))
@@ -44,7 +44,7 @@ public class TestArabToRoman {
                 };
                 System.out.println(true);
                 return true;
-        }*/
+        }
 
 
         public boolean oneToV(){
